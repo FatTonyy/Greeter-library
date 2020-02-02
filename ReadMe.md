@@ -1,3 +1,3 @@
 ## Greeter Library
 
-##End Project of Tony Aliea course on Udemy
+##End Project of Anthony Alicea course on Udemy
